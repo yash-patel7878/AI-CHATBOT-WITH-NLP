@@ -1,1 +1,15 @@
 # AI-CHATBOT-WITH-NLP
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: PATEL YASHKUMAR UPENDRABHAI
+
+*DOMIN*: PYTHON DEVELOPER
+
+*INTERN ID*: CTIS0499
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SATOSH
+
+<img width="1874" height="896" alt="Image" src="https://github.com/user-attachments/assets/a24fc5cb-8cdc-4f36-8604-5cb540a6d829" />
